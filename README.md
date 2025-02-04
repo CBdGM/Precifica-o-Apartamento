@@ -22,8 +22,8 @@ Este projeto tem como objetivo prever o preço de acomodações com base em vari
 1. **Clone o repositório**
 
    ```bash
-   git clone <https://github.com/CBdGM/Precifica-o-Apartamento>
-   cd <Precifica-o-Apartamento>
+   git clone https://github.com/CBdGM/Precifica-o-Apartamento
+   cd Precifica-o-Apartamento
    ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado)**
