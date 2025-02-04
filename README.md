@@ -41,9 +41,9 @@ Este projeto tem como objetivo prever o preço de acomodações com base em vari
    ```
 
    Se for usar o VSCode, instale a extensão do Jupyter Notebook.
-
+   
 4. **Execute o Jupyter Notebook**
-
+   Selecione o deu interpratador de python
    Aperte play nas células ou rode o "Executar Tudo".
 
 ---
